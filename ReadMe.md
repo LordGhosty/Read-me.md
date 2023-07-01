@@ -33,7 +33,7 @@
 </details>
 <details>
 <summary>How to contact me.</summary>
-    <p>→ Discord: ⸸ 𝖑𝖔𝖗𝖉 𝕲𝖍𝖔𝖘𝖙𝖞 ☽#6432</p> 
+    <p>→ Discord: lord_ghosty </p> 
 </details>
 <p>_________________________________________________________________________________</p>
 >The more you sleep the less you dream.
