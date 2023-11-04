@@ -22,8 +22,9 @@
 </details>
 <details>
 <summary>Current projects.</summary>
-    <p>→ Discord bot: Sharky </p>
-    <p>→ Roblox LUAU developing | upcoming project: DeathBite (apocalypse) </p>
+    <p>→ Javascript Dev | Discord bot: Sharky </p>
+    <p>→ Roblox LUAU developing </p>
+    <p>→ Python Dev </p>
     <p>→ On the grind to learn more HTML, LUAU, JavaScript and a bit of python. No rush school is also a limiter. </p>
       <details>
       <summary>Team foundation</summary>
@@ -33,7 +34,7 @@
 </details>
 <details>
 <summary>How to contact me.</summary>
-    <p>→ Discord: devsparks </p> 
+    <p>→ Discord: lord_ghosty </p> 
 </details>
 <p>_________________________________________________________________________________</p>
 >The more you sleep the less you dream.
